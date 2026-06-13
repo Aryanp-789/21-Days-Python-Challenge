@@ -1,0 +1,21 @@
+# main.py
+
+```python
+# Day 7 - Functions
+
+# Function 1
+def add(a, b):
+    return a + b
+
+# Function 2
+def square(num):
+    return num * num
+
+# Function 3
+def greet(name):
+    print("Hello,", name)
+
+# Calling functions
+print("Addition:", add(10, 5))
+print("Square:", square(6))
+greet("Aryan")
