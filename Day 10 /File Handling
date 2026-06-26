@@ -1,0 +1,11 @@
+📚 Topics
+Opening files
+Reading files
+Writing files
+Appending data
+Using with open()
+File modes:
+r – Read
+w – Write (overwrites)
+a – Append
+x – Create a new file
