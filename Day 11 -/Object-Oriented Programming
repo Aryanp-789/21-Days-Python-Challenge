@@ -1,0 +1,16 @@
+# 📚 Topics Covered
+
+## 1. Introduction to OOP
+- What is OOP?
+- Advantages of OOP
+- Real-world examples of Objects and Classes
+
+---
+
+## 2. Classes and Objects
+
+Example:
+
+```python
+class Student:
+    pass
