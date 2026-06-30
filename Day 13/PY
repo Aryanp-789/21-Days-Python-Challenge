@@ -1,0 +1,7 @@
+Modes:
+
+"r" → Read
+"w" → Write (overwrites)
+"a" → Append
+"x" → Create new file
+"rb" → Read binary
