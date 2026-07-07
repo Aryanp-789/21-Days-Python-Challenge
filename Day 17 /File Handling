@@ -1,0 +1,9 @@
+Today, focus on:
+
+Opening and closing files
+File modes: r, w, a, x
+Reading files using read(), readline(), and readlines()
+Writing data using write()
+Appending data to existing files
+Using the with open() statement
+Handling basic file errors
