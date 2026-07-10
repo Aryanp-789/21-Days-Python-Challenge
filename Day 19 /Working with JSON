@@ -1,0 +1,8 @@
+What is JSON?
+JSON syntax and structure
+json module in Python
+Convert Python data to JSON using json.dumps()
+Convert JSON to Python using json.loads()
+Read JSON files using json.load()
+Write JSON files using json.dump()
+Create a small Student Data Management project using JSON
